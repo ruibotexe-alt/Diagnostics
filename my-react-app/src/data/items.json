@@ -1,0 +1,1260 @@
+[
+  {
+    "type": "question",
+    "id": "qc1",
+    "tag": "幼少期",
+    "color": "#a0a0ff",
+    "text": "小学校〜中学校の頃——「あなたらしい」と言えば一番近いのはどれか？",
+    "sub": "「こうあるべきだった」ではなく、実際にそうだったこと。",
+    "options": [
+      {
+        "id": "a",
+        "text": "言われた事はきちんとやる、信頼できる生徒だった",
+        "scores": {
+          "conscientiousness": 80,
+          "stability": 70
+        }
+      },
+      {
+        "id": "b",
+        "text": "なぜそのルールなのかに疑問を持ち、従わないことがあった",
+        "scores": {
+          "frameBreaking": 82,
+          "independence": 72,
+          "openness": 65
+        }
+      },
+      {
+        "id": "c",
+        "text": "特定のことに熱中すると、他が見えなくなるタイプだった",
+        "scores": {
+          "craftDrive": 80,
+          "openness": 60,
+          "conscientiousness": 55
+        }
+      },
+      {
+        "id": "d",
+        "text": "友達の悩みを聞いたり、グループをまとめる役割が多かった",
+        "scores": {
+          "agreeableness": 80,
+          "extraversion": 65,
+          "stability": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "何でもそこそここなすが、特に突出したものはなかった",
+        "scores": {
+          "stability": 72,
+          "agreeableness": 60
+        }
+      },
+      {
+        "id": "f",
+        "text": "競争が好きで、勝負事には本気になるタイプだった",
+        "scores": {
+          "extraversion": 72,
+          "conscientiousness": 62,
+          "independence": 58
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qc2",
+    "tag": "幼少期",
+    "color": "#a0a0ff",
+    "text": "子供の頃——誰にも言われなくても自然にやっていた「熱中」は何だったか？",
+    "sub": "研究では、10代の職業的興味は12年後の職業アウトカムを予測する（Hoff et al., 2022）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "ものを分解・組み立て・改造することが好きだった（ R: Realistic）",
+        "scores": {
+          "craftDrive": 78,
+          "conscientiousness": 62,
+          "openness": 55
+        }
+      },
+      {
+        "id": "b",
+        "text": "なぜそうなるのかを調べ、理解しようとしていた（ I: Investigative）",
+        "scores": {
+          "openness": 80,
+          "frameBreaking": 65,
+          "conscientiousness": 60
+        }
+      },
+      {
+        "id": "c",
+        "text": "絵・音楽・文章など、何かを表現することに熱中していた（ A: Artistic）",
+        "scores": {
+          "openness": 82,
+          "craftDrive": 70,
+          "independence": 65
+        }
+      },
+      {
+        "id": "d",
+        "text": "人を助けたり、誰かの役に立つことが自然と好きだった（ S: Social）",
+        "scores": {
+          "agreeableness": 82,
+          "extraversion": 62,
+          "stability": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "人を動かしたり、チームを引っ張ることに快感を覚えた（ E: Enterprising）",
+        "scores": {
+          "extraversion": 80,
+          "independence": 70,
+          "conscientiousness": 58
+        }
+      },
+      {
+        "id": "f",
+        "text": "物事を整理・管理・体系化することが自然と得意だった（ C: Conventional）",
+        "scores": {
+          "conscientiousness": 85,
+          "stability": 72,
+          "agreeableness": 55
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qc3",
+    "tag": "学生時代",
+    "color": "#a0a0ff",
+    "text": "学生時代の失敗や挫折の後——実際に何をしたか？",
+    "sub": "過去の行動パターンは将来の行動の最も信頼できる予測因子である（SJT behavioral consistency principle）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "なぜ失敗したか徹底的に分析して、二度と繰り返さない構造を作った",
+        "scores": {
+          "conscientiousness": 82,
+          "openness": 65,
+          "stability": 68
+        }
+      },
+      {
+        "id": "b",
+        "text": "一人で静かに消化して、また黙々と取り組み直した",
+        "scores": {
+          "independence": 75,
+          "conscientiousness": 65,
+          "stability": 62
+        }
+      },
+      {
+        "id": "c",
+        "text": "そのルールやシステム自体がおかしいと感じ、抵抗した",
+        "scores": {
+          "frameBreaking": 82,
+          "independence": 70,
+          "openness": 65
+        }
+      },
+      {
+        "id": "d",
+        "text": "誰かに話して気持ちを整理してから、立て直した",
+        "scores": {
+          "agreeableness": 72,
+          "extraversion": 65,
+          "stability": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "あまり引きずらず、すぐ次に移った",
+        "scores": {
+          "stability": 72,
+          "extraversion": 58,
+          "conscientiousness": 55
+        }
+      },
+      {
+        "id": "f",
+        "text": "しばらく落ち込んだが、時間をかけて少しずつ回復した",
+        "scores": {
+          "stability": 55,
+          "agreeableness": 60
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qc4",
+    "tag": "学生時代",
+    "color": "#a0a0ff",
+    "text": "将来の仕事について——学生時代に実際に頭にあったことは？",
+    "sub": "10代の職業的アスピレーションは成人後の職業的地位と収入を予測する（Ashby & Schoon, 2010）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "安定した組織・職業に入ることが第一目標だった",
+        "scores": {
+          "stability": 85,
+          "conscientiousness": 72,
+          "agreeableness": 58
+        }
+      },
+      {
+        "id": "b",
+        "text": "やりたいことで食べていくことを漠然と思っていた",
+        "scores": {
+          "independence": 75,
+          "openness": 68,
+          "craftDrive": 60
+        }
+      },
+      {
+        "id": "c",
+        "text": "収入と安定を確保しながら、その中でやりがいを見つければいい",
+        "scores": {
+          "conscientiousness": 75,
+          "stability": 70,
+          "agreeableness": 60
+        }
+      },
+      {
+        "id": "d",
+        "text": "業界より何ができるかのスキルと専門性に関心があった",
+        "scores": {
+          "craftDrive": 78,
+          "conscientiousness": 65,
+          "openness": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "あまり具体的に考えていなかった",
+        "scores": {
+          "stability": 58,
+          "agreeableness": 55
+        }
+      },
+      {
+        "id": "f",
+        "text": "社会を変えたい、何か大きなことをしたいと思っていた",
+        "scores": {
+          "openness": 78,
+          "frameBreaking": 70,
+          "independence": 68
+        }
+      }
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": "quiz1",
+    "tag": "CALIBRATION QUIZ 1 / 3",
+    "color": "#ffaa44",
+    "title": "壊れたはかり問題",
+    "text": "バナナだけで計ると 300g、りんごだけで計ると 200g、一緒に計ると 600g と表示された。\n\nあなたが最初に感じたことは？",
+    "sub": "これは知識テストではない。あなたの認知スタイルのキャリブレーションに使用する。",
+    "options": [
+      {
+        "id": "a",
+        "text": "「300+200=500なのに600はおかしい」——矛盾に即座に気づいた",
+        "calib": {
+          "openness": 10,
+          "frameBreaking": 8
+        },
+        "note": "問題構造への感度（Investigative type指標）"
+      },
+      {
+        "id": "b",
+        "text": "「はかりの前提自体がおかしいのでは」——与えられた条件を疑った",
+        "calib": {
+          "frameBreaking": 14,
+          "openness": 8
+        },
+        "note": "フレーム解体思考。低い規則適合性と相関"
+      },
+      {
+        "id": "c",
+        "text": "まず計算してみた（皿の重さ、係数など）",
+        "calib": {
+          "conscientiousness": 10,
+          "openness": 6
+        },
+        "note": "構造的アプローチ。高い誠実性と相関"
+      },
+      {
+        "id": "d",
+        "text": "「問題として出てるなら何か意図があるはず」と思った",
+        "calib": {
+          "agreeableness": 8,
+          "stability": 6
+        },
+        "note": "文脈依存的解釈。協調性・社会的感度と相関"
+      },
+      {
+        "id": "e",
+        "text": "特に考えなかった",
+        "calib": {
+          "stability": 4
+        },
+        "note": ""
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qw1",
+    "tag": "仕事観",
+    "color": "#88bbff",
+    "text": "仕事に対する考え方として——最もしっくりくるのはどれか？",
+    "sub": "研究では、仕事への動機タイプは仕事の満足度と成果のパターンを大きく左右する。",
+    "options": [
+      {
+        "id": "a",
+        "text": "仕事は生活のための手段。プライベートを充実させるための活動費を稼ぐ場",
+        "scores": {
+          "stability": 85,
+          "conscientiousness": 68,
+          "agreeableness": 55
+        }
+      },
+      {
+        "id": "b",
+        "text": "仕事を通じて価値を提供したい。意味を感じられることが重要",
+        "scores": {
+          "openness": 75,
+          "conscientiousness": 65,
+          "craftDrive": 60
+        }
+      },
+      {
+        "id": "c",
+        "text": "成果と報酬が明確に連動していれば、どんな仕事でもやれる",
+        "scores": {
+          "conscientiousness": 78,
+          "extraversion": 58,
+          "independence": 60
+        }
+      },
+      {
+        "id": "d",
+        "text": "自分が面白いと思えることに集中したい。そうでない仕事は長続きしない",
+        "scores": {
+          "independence": 78,
+          "openness": 70,
+          "craftDrive": 65
+        }
+      },
+      {
+        "id": "e",
+        "text": "信頼できる仲間とチームで動けることが最も大切",
+        "scores": {
+          "agreeableness": 82,
+          "extraversion": 68,
+          "stability": 62
+        }
+      },
+      {
+        "id": "f",
+        "text": "組織や社会の中で自分の役割を全うすることが仕事だと思っている",
+        "scores": {
+          "conscientiousness": 80,
+          "stability": 75,
+          "agreeableness": 65
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qw2",
+    "tag": "仕事観",
+    "color": "#88bbff",
+    "text": "組織での立ち回りについて——実際に近いのはどれか？",
+    "sub": "「べき」ではなく実態として。行動の一貫性原則：過去のパターンは将来のパターンを予測する。",
+    "options": [
+      {
+        "id": "a",
+        "text": "波風を立てないことが長期的に組織で生き残る正解だと思っている",
+        "scores": {
+          "stability": 88,
+          "agreeableness": 75,
+          "conscientiousness": 68
+        }
+      },
+      {
+        "id": "b",
+        "text": "正しいと思うことは言うが、言い方は空気を読みながら調整する",
+        "scores": {
+          "agreeableness": 72,
+          "extraversion": 65,
+          "stability": 62
+        }
+      },
+      {
+        "id": "c",
+        "text": "おかしいと思ったことははっきり言う。摩擦が起きても仕方ない",
+        "scores": {
+          "frameBreaking": 82,
+          "independence": 78,
+          "openness": 65
+        }
+      },
+      {
+        "id": "d",
+        "text": "組織の論理と自分の考えを使い分けることが現実的だと思っている",
+        "scores": {
+          "conscientiousness": 75,
+          "stability": 68,
+          "agreeableness": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "上司や組織の方向性に従いながら自分の専門性を高める方が効率的",
+        "scores": {
+          "conscientiousness": 78,
+          "stability": 72,
+          "craftDrive": 58
+        }
+      },
+      {
+        "id": "f",
+        "text": "組織より成果で評価されたい。プロセスや政治には関心がない",
+        "scores": {
+          "independence": 80,
+          "conscientiousness": 65,
+          "openness": 60
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qs1",
+    "tag": "対人・衝突",
+    "color": "#ffaa44",
+    "text": "職場で誰かと意見が対立した時——実際にどうするか？",
+    "sub": "「べき」ではなく実際の行動パターン。",
+    "options": [
+      {
+        "id": "a",
+        "text": "基本的に相手の意見に合わせる。争うコストの方が高い",
+        "scores": {
+          "stability": 82,
+          "agreeableness": 78,
+          "conscientiousness": 62
+        }
+      },
+      {
+        "id": "b",
+        "text": "その場は従うが、後で別の方法で自分の意見を反映させる",
+        "scores": {
+          "agreeableness": 65,
+          "stability": 68,
+          "conscientiousness": 60
+        }
+      },
+      {
+        "id": "c",
+        "text": "なぜ相手がそう考えるのかをまず理解しようと聞く",
+        "scores": {
+          "agreeableness": 80,
+          "extraversion": 65,
+          "openness": 62
+        }
+      },
+      {
+        "id": "d",
+        "text": "根拠とデータで論理的に反論する",
+        "scores": {
+          "conscientiousness": 72,
+          "independence": 68,
+          "openness": 62
+        }
+      },
+      {
+        "id": "e",
+        "text": "前提から問い直して、議論の枠組みを変えようとする",
+        "scores": {
+          "frameBreaking": 85,
+          "openness": 72,
+          "independence": 65
+        }
+      },
+      {
+        "id": "f",
+        "text": "自分の直感を信じて最後まで主張する",
+        "scores": {
+          "independence": 82,
+          "extraversion": 65,
+          "openness": 58
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qs2",
+    "tag": "エネルギー管理",
+    "color": "#ffaa44",
+    "text": "仕事で最もエネルギーを奪われると感じる状況は？",
+    "sub": "消耗パターンは価値観・動機システムの逆説的な指標になる。",
+    "options": [
+      {
+        "id": "a",
+        "text": "責任範囲が不明確で、何が自分の仕事かわからない時",
+        "scores": {
+          "conscientiousness": 82,
+          "stability": 68,
+          "agreeableness": 55
+        }
+      },
+      {
+        "id": "b",
+        "text": "間違っていると分かっているのに従わなければならない時",
+        "scores": {
+          "frameBreaking": 80,
+          "independence": 78,
+          "openness": 65
+        }
+      },
+      {
+        "id": "c",
+        "text": "意味を感じられないタスクを繰り返す時",
+        "scores": {
+          "openness": 75,
+          "craftDrive": 68,
+          "independence": 65
+        }
+      },
+      {
+        "id": "d",
+        "text": "自分のペースや集中を頻繁に中断される時",
+        "scores": {
+          "craftDrive": 78,
+          "independence": 72,
+          "conscientiousness": 65
+        }
+      },
+      {
+        "id": "e",
+        "text": "人間関係の調整や根回しに時間を取られる時",
+        "scores": {
+          "independence": 75,
+          "openness": 62,
+          "stability": 55
+        }
+      },
+      {
+        "id": "f",
+        "text": "頑張っても評価されず、報酬に反映されない時",
+        "scores": {
+          "conscientiousness": 72,
+          "stability": 58,
+          "extraversion": 55
+        }
+      }
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": "quiz2",
+    "tag": "CALIBRATION QUIZ 2 / 3",
+    "color": "#ffaa44",
+    "title": "曖昧な指示問題",
+    "text": "上司から\n「いい感じのレポートを作っておいて」\nとだけ言われた。締め切りも形式も不明。\n\n最初にすることは？",
+    "sub": "行動傾向型質問（behavioral tendency）は知識型より社会的望ましさバイアスが低い。",
+    "options": [
+      {
+        "id": "a",
+        "text": "上司に確認しに行く。曖昧なまま動くのは非効率",
+        "calib": {
+          "conscientiousness": 10,
+          "agreeableness": 6
+        },
+        "note": "効率と明確化を優先。高い誠実性の指標"
+      },
+      {
+        "id": "b",
+        "text": "他の人の過去のレポートを見て、形式を把握してから動く",
+        "calib": {
+          "conscientiousness": 10,
+          "stability": 8
+        },
+        "note": "規範参照型。高い誠実性・低い開放性の指標"
+      },
+      {
+        "id": "c",
+        "text": "自分なりに考えて作ってみる。形式より中身を優先",
+        "calib": {
+          "independence": 10,
+          "craftDrive": 8
+        },
+        "note": "自律的実行型。高い独立志向・開放性の指標"
+      },
+      {
+        "id": "d",
+        "text": "「いい感じ」の定義を引き出すために質問する",
+        "calib": {
+          "openness": 10,
+          "agreeableness": 8
+        },
+        "note": "問題の曖昧さを解消する。Investigative type指標"
+      },
+      {
+        "id": "e",
+        "text": "目的から考え直す——このレポートは誰のために何のためか",
+        "calib": {
+          "frameBreaking": 12,
+          "openness": 10
+        },
+        "note": "目的先行型。高い開放性・フレーム解体の指標"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qr1",
+    "tag": "リスクと決断",
+    "color": "#ffaa44",
+    "text": "重要な意思決定で十分な情報がない時——実際にどうするか？",
+    "sub": "意思決定スタイルは不確実性への耐性、誠実性、神経症的傾向と深く相関している。",
+    "options": [
+      {
+        "id": "a",
+        "text": "動かない。不確実な状況での行動はリスクが高い",
+        "scores": {
+          "stability": 82,
+          "conscientiousness": 72,
+          "agreeableness": 58
+        }
+      },
+      {
+        "id": "b",
+        "text": "情報を最大限集めてから決める",
+        "scores": {
+          "conscientiousness": 80,
+          "stability": 65,
+          "openness": 55
+        }
+      },
+      {
+        "id": "c",
+        "text": "小さく試して感触を確認しながら進む",
+        "scores": {
+          "openness": 78,
+          "conscientiousness": 65,
+          "extraversion": 60
+        }
+      },
+      {
+        "id": "d",
+        "text": "信頼できる人に意見を聞いてから決める",
+        "scores": {
+          "agreeableness": 75,
+          "stability": 65,
+          "extraversion": 58
+        }
+      },
+      {
+        "id": "e",
+        "text": "直感と経験で動く。分析より感覚を信頼する",
+        "scores": {
+          "extraversion": 72,
+          "independence": 68,
+          "openness": 60
+        }
+      },
+      {
+        "id": "f",
+        "text": "最悪のケースを想定して、許容できるなら動く",
+        "scores": {
+          "conscientiousness": 75,
+          "openness": 60,
+          "stability": 62
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "q1",
+    "tag": "現在の行動",
+    "color": "#00ff88",
+    "text": "今の仕事で——自分が自然にやってしまっていることは？",
+    "sub": "「やるべきこと」ではなく、気づいたらやっていること。行動の一貫性：現在の行動パターンは特性の最良の指標。",
+    "options": [
+      {
+        "id": "a",
+        "text": "与えられた仕事を確実にこなすことに集中している",
+        "scores": {
+          "conscientiousness": 85,
+          "stability": 75,
+          "agreeableness": 60
+        }
+      },
+      {
+        "id": "b",
+        "text": "誰かが見落としているリスクや問題を記録・追跡している",
+        "scores": {
+          "openness": 72,
+          "conscientiousness": 70,
+          "frameBreaking": 60
+        }
+      },
+      {
+        "id": "c",
+        "text": "頼まれた範囲より精度・品質を上げることに時間を使っている",
+        "scores": {
+          "craftDrive": 85,
+          "conscientiousness": 72,
+          "independence": 55
+        }
+      },
+      {
+        "id": "d",
+        "text": "なぜそのやり方なのかを調べて疑い続けている",
+        "scores": {
+          "frameBreaking": 82,
+          "openness": 75,
+          "conscientiousness": 55
+        }
+      },
+      {
+        "id": "e",
+        "text": "周囲の人間関係を円滑に保つことに気を配っている",
+        "scores": {
+          "agreeableness": 85,
+          "extraversion": 68,
+          "stability": 72
+        }
+      },
+      {
+        "id": "f",
+        "text": "仕事が終わったら切り替えて、プライベートに集中している",
+        "scores": {
+          "stability": 80,
+          "agreeableness": 65,
+          "conscientiousness": 60
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "q2",
+    "tag": "最難の瞬間",
+    "color": "#00ff88",
+    "text": "これまでで最も「消耗した」と感じた仕事上の経験は？",
+    "sub": "消耗のパターンは person-environment fit（人と環境の適合）の逆指標として機能する。",
+    "options": [
+      {
+        "id": "a",
+        "text": "自分の能力では対処できない複雑な問題を抱え続けた時",
+        "scores": {
+          "stability": 68,
+          "conscientiousness": 62,
+          "agreeableness": 55
+        }
+      },
+      {
+        "id": "b",
+        "text": "組織の方向性が間違っているのに、変えられなかった時",
+        "scores": {
+          "frameBreaking": 82,
+          "openness": 72,
+          "independence": 70
+        }
+      },
+      {
+        "id": "c",
+        "text": "品質や基準を下げることを求められ続けた時",
+        "scores": {
+          "craftDrive": 82,
+          "conscientiousness": 70,
+          "independence": 68
+        }
+      },
+      {
+        "id": "d",
+        "text": "人間関係の摩擦や対立が長く続いた時",
+        "scores": {
+          "agreeableness": 65,
+          "stability": 60,
+          "extraversion": 55
+        }
+      },
+      {
+        "id": "e",
+        "text": "仕事量と責任だけが増えて、報酬や評価が伴わなかった時",
+        "scores": {
+          "conscientiousness": 72,
+          "extraversion": 58,
+          "stability": 55
+        }
+      },
+      {
+        "id": "f",
+        "text": "役割や期待値が曖昧で、何をすればいいかわからなかった時",
+        "scores": {
+          "conscientiousness": 75,
+          "stability": 65,
+          "agreeableness": 58
+        }
+      }
+    ]
+  },
+  {
+    "type": "quiz",
+    "id": "quiz3",
+    "tag": "CALIBRATION QUIZ 3 / 3",
+    "color": "#ffaa44",
+    "title": "論理の罠問題",
+    "text": "あるマネージャーがこう言った：\n\n「このチームは過去3年間、プロジェクトの遅延が一度もない。だから優秀なチームだ。」\n\nこの話を聞いた時、最初に浮かんだ反応は？",
+    "sub": "思考スタイルのキャリブレーション。正解はない。",
+    "options": [
+      {
+        "id": "a",
+        "text": "「そうか、良いチームなんだな」と素直に受け取った",
+        "calib": {
+          "stability": 8,
+          "agreeableness": 6
+        },
+        "note": "額面受け取り型。高い協調性・安定性の指標"
+      },
+      {
+        "id": "b",
+        "text": "「遅延なし＝優秀」という前提自体がおかしい気がした",
+        "calib": {
+          "frameBreaking": 14,
+          "openness": 8
+        },
+        "note": "因果飛躍検出。Investigative type + 低い服従性"
+      },
+      {
+        "id": "c",
+        "text": "「そもそも遅延の定義は何か」が気になった",
+        "calib": {
+          "openness": 12,
+          "conscientiousness": 8
+        },
+        "note": "定義先行型。高い開放性・誠実性の指標"
+      },
+      {
+        "id": "d",
+        "text": "「3年は短いのでは」と思った",
+        "calib": {
+          "conscientiousness": 12,
+          "openness": 6
+        },
+        "note": "サンプルサイズへの感度。高い誠実性の指標"
+      },
+      {
+        "id": "e",
+        "text": "「良い話だな、参考にしよう」と思った",
+        "calib": {
+          "conscientiousness": 8,
+          "agreeableness": 4
+        },
+        "note": "実用志向。Conventional type指標"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qg1",
+    "tag": "素の自分",
+    "color": "#cc88ff",
+    "text": "仕事が終わった後の夜——最もエネルギーが回復する過ごし方は？",
+    "sub": "理想ではなく、実際に回復できると感じること。",
+    "options": [
+      {
+        "id": "a",
+        "text": "一人で静かに過ごす。そこで初めて充電できる感覚がある",
+        "scores": {
+          "extraversion": 36,
+          "stability": 68
+        },
+        "gap": {
+          "extraversion": 30
+        }
+      },
+      {
+        "id": "b",
+        "text": "誰かと話したり飲んだりする方が逆に元気が出る",
+        "scores": {
+          "extraversion": 82,
+          "agreeableness": 62
+        }
+      },
+      {
+        "id": "c",
+        "text": "やることをこなして早めに寝る。ルーティンの確実さが心地よい",
+        "scores": {
+          "conscientiousness": 78,
+          "stability": 72
+        },
+        "gap": {
+          "conscientiousness": 16
+        }
+      },
+      {
+        "id": "d",
+        "text": "仕事の延長のような作業——趣味・副業・読書など——を続けている",
+        "scores": {
+          "craftDrive": 72,
+          "independence": 65
+        }
+      },
+      {
+        "id": "e",
+        "text": "特にパターンはない。その日の気分次第",
+        "scores": {
+          "adaptability": 65,
+          "stability": 55
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qg2",
+    "tag": "積み上げた力",
+    "color": "#cc88ff",
+    "text": "若い頃の自分に一つだけ伝えるとしたら——何を言いたいか？",
+    "sub": "今はできているのに、当時はできていなかったこと。",
+    "options": [
+      {
+        "id": "a",
+        "text": "「もっと早く話す練習をしろ。人前やコミュニケーションで損するな」",
+        "scores": {
+          "extraversion": 55,
+          "agreeableness": 52
+        },
+        "gap": {
+          "extraversion": 32
+        }
+      },
+      {
+        "id": "b",
+        "text": "「もっと早く習慣と規律を作れ。計画と継続は才能ではなくシステムだ」",
+        "scores": {
+          "conscientiousness": 56
+        },
+        "gap": {
+          "conscientiousness": 30
+        }
+      },
+      {
+        "id": "c",
+        "text": "「感情に振り回されるな。冷静さは筋肉で、鍛えられる」",
+        "scores": {
+          "stability": 54
+        },
+        "gap": {
+          "stability": 32
+        }
+      },
+      {
+        "id": "d",
+        "text": "「批判を恐れるな。それは攻撃ではなく情報だ」",
+        "scores": {
+          "openness": 56,
+          "agreeableness": 50
+        },
+        "gap": {
+          "openness": 24,
+          "agreeableness": 16
+        }
+      },
+      {
+        "id": "e",
+        "text": "「自分の意見を言っていい。空気を読みすぎるな」",
+        "scores": {
+          "independence": 54,
+          "frameBreaking": 50
+        },
+        "gap": {
+          "independence": 28,
+          "frameBreaking": 20
+        }
+      },
+      {
+        "id": "f",
+        "text": "「特に何も伝えたいことはない。だいたい同じ道をたどると思う」",
+        "scores": {
+          "stability": 72,
+          "conscientiousness": 65
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "qg3",
+    "tag": "共鳴する状況",
+    "color": "#cc88ff",
+    "text": "次のうち、最も「なぜかわかる気がする」と感じる状況はどれか？",
+    "sub": "「理想の自分」ではなく、本能的に共鳴するもの。",
+    "options": [
+      {
+        "id": "a",
+        "text": "答えが見えているのに、世界がまだ理解していない——正しいと確信しながら孤立している",
+        "scores": {
+          "frameBreaking": 78,
+          "independence": 72,
+          "openness": 65
+        },
+        "figure": "catalyst"
+      },
+      {
+        "id": "b",
+        "text": "誰も解けない問題に一人で何年も向き合い、ついに突破した時の静かな確信",
+        "scores": {
+          "openness": 75,
+          "conscientiousness": 68,
+          "independence": 65
+        },
+        "figure": "diag"
+      },
+      {
+        "id": "c",
+        "text": "作り続けることをやめられない——完成したものより次の作品の方が常に気になる",
+        "scores": {
+          "craftDrive": 80,
+          "openness": 65,
+          "independence": 62
+        },
+        "figure": "craft"
+      },
+      {
+        "id": "d",
+        "text": "バラバラな知識がある日突然つながって、全体の構造が見えた瞬間",
+        "scores": {
+          "systemThinking": 78,
+          "openness": 72,
+          "frameBreaking": 60
+        },
+        "figure": "arch"
+      },
+      {
+        "id": "e",
+        "text": "人々が対立している場で、両者の言いたいことを同時に理解できている",
+        "scores": {
+          "agreeableness": 80,
+          "extraversion": 65,
+          "adaptability": 68
+        },
+        "figure": "synth"
+      },
+      {
+        "id": "f",
+        "text": "目標が明確になった瞬間、誰より速く動いて結果を出した",
+        "scores": {
+          "conscientiousness": 75,
+          "extraversion": 68,
+          "independence": 65
+        },
+        "figure": "pioneer"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "q3",
+    "tag": "自分の役割",
+    "color": "#00ff88",
+    "text": "職場での自分の存在価値として——最もしっくりくるのはどれか？",
+    "sub": "Holland の person-environment congruence：自分の強みが最も発揮される環境の特定。",
+    "options": [
+      {
+        "id": "a",
+        "text": "確実にやり切る信頼性——「あの人に任せれば大丈夫」という安心感",
+        "scores": {
+          "conscientiousness": 88,
+          "stability": 78,
+          "agreeableness": 68
+        }
+      },
+      {
+        "id": "b",
+        "text": "複雑な問題を整理して、チームが動きやすくする",
+        "scores": {
+          "openness": 75,
+          "conscientiousness": 72,
+          "agreeableness": 65
+        }
+      },
+      {
+        "id": "c",
+        "text": "誰も気づいていない問題をいち早く察知して防ぐ",
+        "scores": {
+          "openness": 80,
+          "frameBreaking": 68,
+          "conscientiousness": 62
+        }
+      },
+      {
+        "id": "d",
+        "text": "品質を妥協せずに高い水準で仕上げる",
+        "scores": {
+          "craftDrive": 85,
+          "conscientiousness": 75,
+          "independence": 60
+        }
+      },
+      {
+        "id": "e",
+        "text": "対立や摩擦が起きた時に橋渡しをして関係を保つ",
+        "scores": {
+          "agreeableness": 85,
+          "extraversion": 70,
+          "stability": 72
+        }
+      },
+      {
+        "id": "f",
+        "text": "誰も疑わなかった前提を変えて、方向を転換させる",
+        "scores": {
+          "frameBreaking": 85,
+          "openness": 78,
+          "independence": 72
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "q4",
+    "tag": "内部基準",
+    "color": "#00ff88",
+    "text": "仕事が「うまくいった」と感じる時——何があった時か？",
+    "sub": "内的基準は intrinsic career success の核心指標。外的報酬への依存度と逆相関する。",
+    "options": [
+      {
+        "id": "a",
+        "text": "頼まれたことを期待通りに、期限通りに完了できた時",
+        "scores": {
+          "conscientiousness": 85,
+          "stability": 78,
+          "agreeableness": 68
+        }
+      },
+      {
+        "id": "b",
+        "text": "周囲が感謝してくれたり、喜んでくれた時",
+        "scores": {
+          "agreeableness": 82,
+          "extraversion": 68,
+          "stability": 65
+        }
+      },
+      {
+        "id": "c",
+        "text": "本来解決すべき問題が実際に解決されていた時",
+        "scores": {
+          "openness": 80,
+          "conscientiousness": 68,
+          "frameBreaking": 62
+        }
+      },
+      {
+        "id": "d",
+        "text": "自分が最初に描いたイメージに近いものが完成した時",
+        "scores": {
+          "craftDrive": 88,
+          "openness": 65,
+          "independence": 62
+        }
+      },
+      {
+        "id": "e",
+        "text": "同じ問題が再発しない構造を作れた時",
+        "scores": {
+          "conscientiousness": 82,
+          "openness": 68,
+          "frameBreaking": 60
+        }
+      },
+      {
+        "id": "f",
+        "text": "自分が納得できるクオリティで仕上がった時",
+        "scores": {
+          "craftDrive": 85,
+          "independence": 75,
+          "openness": 60
+        }
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "id": "q5",
+    "tag": "駆動力の核心",
+    "color": "#00ff88",
+    "text": "正直なところ——仕事をする上で最も大切にしていることは？",
+    "sub": "核心動機は長期的な職業的充足感と最も相関する要因（Judge et al., 1999）。",
+    "options": [
+      {
+        "id": "a",
+        "text": "生活の安定と将来の安心——それがあって初めて他のことができる",
+        "scores": {
+          "stability": 88,
+          "conscientiousness": 75,
+          "agreeableness": 68
+        }
+      },
+      {
+        "id": "b",
+        "text": "周囲との良い関係——信頼できる仲間と働けること",
+        "scores": {
+          "agreeableness": 85,
+          "extraversion": 68,
+          "stability": 65
+        }
+      },
+      {
+        "id": "c",
+        "text": "自分の成長と専門性——スキルが上がっていることを実感できること",
+        "scores": {
+          "conscientiousness": 82,
+          "openness": 70,
+          "craftDrive": 65
+        }
+      },
+      {
+        "id": "d",
+        "text": "問題を解決できること——困っていた状況が変わる瞬間",
+        "scores": {
+          "openness": 82,
+          "conscientiousness": 65,
+          "craftDrive": 58
+        }
+      },
+      {
+        "id": "e",
+        "text": "自分の判断で動けること——承認や許可を必要としない自律性",
+        "scores": {
+          "independence": 88,
+          "openness": 70,
+          "extraversion": 60
+        }
+      },
+      {
+        "id": "f",
+        "text": "フレームを変えること——当たり前とされていたものを疑い直す時",
+        "scores": {
+          "frameBreaking": 88,
+          "openness": 80,
+          "independence": 72
+        }
+      }
+    ]
+  }
+]

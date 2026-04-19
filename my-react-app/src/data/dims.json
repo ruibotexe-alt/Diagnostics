@@ -1,0 +1,42 @@
+{
+  "openness": {
+    "label": "開放性",
+    "short": "開放",
+    "ocean": "O"
+  },
+  "conscientiousness": {
+    "label": "誠実性",
+    "short": "誠実",
+    "ocean": "C"
+  },
+  "extraversion": {
+    "label": "外向性",
+    "short": "外向",
+    "ocean": "E"
+  },
+  "agreeableness": {
+    "label": "協調性",
+    "short": "協調",
+    "ocean": "A"
+  },
+  "stability": {
+    "label": "安定性",
+    "short": "安定",
+    "ocean": "N_inv"
+  },
+  "craftDrive": {
+    "label": "職人衝動",
+    "short": "職人",
+    "ocean": null
+  },
+  "independence": {
+    "label": "独立志向",
+    "short": "独立",
+    "ocean": null
+  },
+  "frameBreaking": {
+    "label": "脱フレーム",
+    "short": "脱枠",
+    "ocean": null
+  }
+}
